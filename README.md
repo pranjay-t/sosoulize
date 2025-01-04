@@ -79,7 +79,7 @@ All interactions, including posts, comments, and messages, are processed in real
    npm start
    ```
 
-For the Android version, download the APK from [link-to-apk].
+For the Android version, download the APK from [https://drive.google.com/drive/folders/1296_HiFSTQAzM9EcsWRJTsZQ2S0optT6?usp=sharing].
 
 ---
 
