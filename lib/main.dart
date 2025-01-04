@@ -7,9 +7,9 @@ import 'package:sosoulize/Features/auths/controller/auth_controller.dart';
 import 'package:sosoulize/Theme/pallete.dart';
 import 'package:sosoulize/core/commons/loader.dart';
 import 'package:sosoulize/core/constants/error_text.dart';
-import 'package:sosoulize/firebase_options.dart';
+import 'package:sosoulize/Firebase/firebase_options.dart';
 import 'package:sosoulize/models/user_models.dart';
-import 'package:sosoulize/route.dart';
+import 'package:sosoulize/RouteManager/route.dart';
 import 'package:routemaster/routemaster.dart';
 
 void main() async {

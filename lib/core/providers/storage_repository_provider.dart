@@ -6,7 +6,7 @@ import 'package:fpdart/fpdart.dart';
 import 'package:image_picker/image_picker.dart';
 import 'package:sosoulize/core/constants/failure.dart';
 import 'package:sosoulize/core/constants/type_def.dart';
-import 'package:sosoulize/cloudinary_storage.dart';
+import 'package:sosoulize/Cloud%20Storage/cloudinary_storage.dart';
 
 final cloudinaryStorageProvider = Provider((ref) {
   return StorageRepository();
